@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\VStudio\\6151071013_WPK63_MID_UTC2\\source_code_de2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\my project\\vstudio\\6151071013_wpk63_mid_utc2\\source_code_de2\\usercontrols\\ucsearchproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrols\\ucsearchproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucSearchProduct.ascx",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_WPK63_MID_UTC2\\source_code_de2\\UserControls\\ucSearchProduct.ascx",
+              "RelativeDocumentMoniker": "UserControls\\ucSearchProduct.ascx",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_WPK63_MID_UTC2\\source_code_de2\\UserControls\\ucSearchProduct.ascx",
+              "RelativeToolTip": "UserControls\\ucSearchProduct.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T08:58:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
